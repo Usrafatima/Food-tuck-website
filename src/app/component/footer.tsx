@@ -1,9 +1,7 @@
-import Link from "next/link";
+
 import Image from "next/image";
 import clock from '../public/ClockClockwise.png';
-import mask from '../public/Mask Group.png';
-import mask2 from '../public/mask2.png';
-import mask3 from '../public/mask3.png';
+
 export default function Footer(){
   return (
     <div>
