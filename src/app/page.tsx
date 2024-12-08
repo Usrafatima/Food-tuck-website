@@ -22,7 +22,7 @@ import chef4 from './public/chef4.png';
 import flower from './public/flower.png';
 import ellipse from './public/Ellipse 6.png';
 import quotes from './public/Quotes.png';
-import star from './public/star.png';
+
 import Dot from './public/Dot.png'
 import restu from './public/restu banner.png';
 import burger2 from './public/burger2.png';
