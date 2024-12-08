@@ -5,7 +5,7 @@ import chat from  '../public/Chats.png';
 import User from '../public/UserCirclePlus.png';
 import Arrow from '../public/ArrowLineUpRight.png';
 import { AiOutlineSearch } from "react-icons/ai";
-import { AiOutlineMenu } from "react-icons/ai"; 
+
 import image from '../public/img.png';
 import five from '../public/Five star.png';
 import social from '../public/social_icon.png';
@@ -13,8 +13,7 @@ import burger from '../public/blogburger.png';
 import kabab from '../public/kabab.svg';
 import biryani from '../public/biryani.svg';
 import custard from '../public/custard.svg';
-import small from '../public/smallburger.svg';
-import sandwhich from '../public/sandwhich.svg';
+
 import smalleggs from '../public/smalleggs.png';;
 import nomask from '../public/nomask.png';
 import pic3 from '../public/pic3.png';
@@ -22,18 +21,17 @@ import kabab2 from '../public/kabab2.png';
 import kababsauce from '../public/kababsauce.png';
 import banana from '../public/banana.png';
 import twitter2 from '../public/twitter2.png';
-import youtube from '../public/youtube.png';
-import pintest from '../public/pintest.png';
+
 import insta2 from '../public/insta2.png';
 import facebook from '../public/facebook.png';
-import pagination from '../public/pagination.png';
+
 import blog2 from '../public/blog2.png';
 import blog3 from '../public/blog3.png';
 import blog4 from '../public/blog4.png';
-import blogdessert from '../public/blogdessert.png';
+
 import blogice from '../public/blogice.png';
-import blogtaco from '../public/blogtaco.png';
-import blogfork from '../public/blogfork.png';
+
+
 export default function Blog(){
     
     return(
